@@ -2,10 +2,7 @@
 
 Análisis de diagnóstico y perfilamiento de datos junto con un tablero interactivo en Power BI mediante un relato visual.
 
-**Curso:** AE-0163 Gestión y Visualización de Datos · Universidad de Costa Rica · II Ciclo 2026
 **Autora:** Daniela Mora Aguilar
-
-📂 **Ver el proyecto completo en mi portafolio:** [danielamora-a.github.io/Portafolio/proyecto1.html](https://danielamora-a.github.io/Portafolio/proyecto1.html)
 
 ![Dashboard en Power BI](imagenes/dashboard.png)
 
